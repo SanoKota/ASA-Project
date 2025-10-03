@@ -3,9 +3,8 @@
 ## 機能
 ## 実行例
 ## Gemini APIについて
-### APIの設定
-各自で以下のURL先からGemini APIを取得
-https://ai.google.dev/gemini-api/docs?hl=ja
-".env"という名前でファイルを作成
-ファイル内には以下の行を追加
+### APIの設定：
+- 各自で以下のURL先からGemini APIを取得
+`https://ai.google.dev/gemini-api/docs?hl=ja`
+- ".env"という名前でファイルを作成、ファイル内には以下の行を追加する
 `GOOGLE_API_KEY = "YOUR_API_KEY"`
